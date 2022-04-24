@@ -1,0 +1,122 @@
+[{
+        "categoria": "Petiscos",
+        "produtos": [{
+                "id": 1,
+                "img": "img/produto_001.png",
+                "nome": "Batata Frita",
+                "descricao": "Deliciosa batata frita, crocante e sequinha, como uma boa batata deve ser",
+                "preco": "25,00",
+                "url_compra": "http://www.uol.com.br"
+            },
+            {
+                "id": 2,
+                "img": "img/produto_002.jpg",
+                "nome": "Iscas de Peixe",
+                "descricao": "Iscas de peixe(Tilápia, Merluza, Pescada). Acompanha limão e molho tártaro",
+                "preco": "35,00",
+                "url_compra": "http://www.amazon.com"
+            },
+            {
+                "id": 3,
+                "img": "img/produto_003.jpg",
+                "nome": "Iscas de frango",
+                "descricao": "Deliciosa isca de frango empanada na farinha panco. Acompanha molho barbecue",
+                "preco": "30,00",
+                "url_compra": "http://www.globo.com.br"
+            }
+        ]
+    },
+    {
+        "categoria": "Bebidas",
+        "produtos": [{
+                "id": 4,
+                "img": "img/produto_004.jpg",
+                "nome": "Água 500ml",
+                "descricao": "Com ou sem gás",
+
+                "preco": "5,00",
+                "url_compra": "http://www.uol.com.br"
+            },
+            {
+                "id": 5,
+                "img": "img/produto_005.jpg",
+                "nome": "Refrigerante lata",
+                "descricao": "Coca-cola, Guaraná Antarctica, Fanta Uva ou Laranja, Sprite",
+                "preco": "3,00",
+                "url_compra": "http://www.amazon.com"
+            },
+            {
+                "id": 6,
+                "img": "img/produto_006.jpg",
+                "nome": "Cerveja lata",
+                "descricao": "Brahma, Skol, Antarctica, Itaipava, Bohemia",
+                "preco": "5,00",
+                "url_compra": "http://www.globo.com.br"
+            },
+            {
+                "id": 7,
+                "img": "img/produto_007.jpg",
+                "nome": "Cerveja long-neck",
+                "descricao": "Heineken, Budweiser, Eisenbahn, Stella Artois, Corona",
+                "preco": "8,00",
+                "url_compra": "http://www.globo.com.br"
+            }
+        ]
+    },
+    {
+        "categoria": "Drinks",
+        "produtos": [{
+                "id": 8,
+                "img": "img/produto_008.jpg",
+                "nome": "Caipirinha",
+                "descricao": "Tradicional drink brasileiro, com um toque especial da nossa exclusiva cachaça artesanal",
+                "preco": "15,00",
+                "url_compra": "http://www.uol.com.br"
+            },
+            {
+                "id": 9,
+                "img": "img/produto_009.jpg",
+                "nome": "Mojito",
+                "descricao": "Delicioso drink para se refrescar. Temos as versões com ou sem alcool. Ingredientes: Suco de limão, hortelã, açucar, gelo, refrigerante de limão ou água com gás, rum (opcional)",
+                "preco": "18,00",
+                "url_compra": "http://www.globo.com.br"
+            },
+            {
+                "id": 10,
+                "img": "img/produto_010.png",
+                "nome": "Sexy on the beach",
+                "descricao": "Drink refrescante de forte sabor frutado, perfeito para um dia de sol. Ingredientes: Tequila, licor de pêssego, xarope de groselha, suco de laranja e gelo",
+                "preco": "18,00",
+                "url_compra": "http://www.globo.com.br"
+            }
+        ]
+    },
+    {
+        "categoria": "Sobremesas",
+        "produtos": [{
+                "id": 11,
+                "img": "img/produto_011.jpg",
+                "nome": "Picolés",
+                "descricao": "Sabores: Morango, Chocolate, Uva, Maracuja, Limão",
+                "preco": "5,00",
+                "url_compra": "http://www.uol.com.br"
+            },
+            {
+                "id": 12,
+                "img": "img/produto_012.png",
+                "nome": "Sorvete",
+                "descricao": "Sabores: Morango, Chocolate, Flocos, Pistache, Creme, Napolitano",
+                "preco": "10,00",
+                "url_compra": "http://www.uol.com.br"
+            },
+            {
+                "id": 13,
+                "img": "img/produto_013.jpg",
+                "nome": "Paleta Mexicana",
+                "descricao": "Sabores: Morango com leite condensado, Maracuja com leite condensado, Iogurte com frutas vermelhas, Romeu e Julieta",
+                "preco": "15,00",
+                "url_compra": "http://www.uol.com.br"
+            }
+        ]
+    }
+]
